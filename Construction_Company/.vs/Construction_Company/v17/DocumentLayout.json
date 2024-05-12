@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|solutionrelative:staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|solutionrelative:staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|c:\\users\\user\\desktop\\python_lessons\\algoritmik tillar\\2023_2024\\construction_company\\construction_company\\entering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|solutionrelative:entering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|c:\\users\\user\\desktop\\python_lessons\\algoritmik tillar\\2023_2024\\construction_company\\construction_company\\entering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|solutionrelative:entering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\presentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|solutionrelative:presentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|c:\\users\\user\\desktop\\python_lessons\\algoritmik tillar\\2023_2024\\construction_company\\construction_company\\presentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|solutionrelative:presentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\customer_enter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|solutionrelative:customer_enter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\boardofdirectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|solutionrelative:boardofdirectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\customers_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|solutionrelative:customers_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\customers_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|solutionrelative:customers_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\director_enter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|solutionrelative:director_enter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\boardofdirectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|solutionrelative:boardofdirectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4AC5EF3-8D88-492F-8EC9-1A85F2EBC998}|Construction_Company.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entering.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Entering.cs",
+              "RelativeDocumentMoniker": "Entering.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Entering.cs",
+              "RelativeToolTip": "Entering.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T21:59:28.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Entering.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Entering.cs",
+              "RelativeDocumentMoniker": "Entering.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Entering.cs [Design]",
+              "RelativeToolTip": "Entering.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T21:59:25.72Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T10:57:30.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Presentation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Presentation.cs",
+              "RelativeDocumentMoniker": "Presentation.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Presentation.cs",
+              "RelativeToolTip": "Presentation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T10:11:19.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customers_Info.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Customers_Info.cs",
+              "RelativeDocumentMoniker": "Customers_Info.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Customers_Info.cs [Design]",
+              "RelativeToolTip": "Customers_Info.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:46:56.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Staff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Staff.cs",
+              "RelativeDocumentMoniker": "Staff.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Staff.cs [Design]",
+              "RelativeToolTip": "Staff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:19:12.762Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Staff.cs",
+              "RelativeDocumentMoniker": "Staff.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Staff.cs",
+              "RelativeToolTip": "Staff.cs",
+              "ViewState": "AQIAABsDAAAAAAAAAAAmwD8DAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T16:38:16.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Form3.cs [Design]",
+              "RelativeToolTip": "Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:42:10.604Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AQIAAH8BAAAAAAAAAAAmwI8BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T10:58:27.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Customer.cs [Design]",
+              "RelativeToolTip": "Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:21:34.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Presentation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Presentation.cs",
+              "RelativeDocumentMoniker": "Presentation.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Presentation.cs [Design]",
+              "RelativeToolTip": "Presentation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T10:08:03.835Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer_Enter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Customer_Enter.cs",
+              "RelativeDocumentMoniker": "Customer_Enter.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Customer_Enter.cs [Design]",
+              "RelativeToolTip": "Customer_Enter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:06:44.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Director_Enter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Director_Enter.cs",
+              "RelativeDocumentMoniker": "Director_Enter.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Director_Enter.cs [Design]",
+              "RelativeToolTip": "Director_Enter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:06:33.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BoardofDirectors.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\BoardofDirectors.cs",
+              "RelativeDocumentMoniker": "BoardofDirectors.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\BoardofDirectors.cs [Design]",
+              "RelativeToolTip": "BoardofDirectors.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:19:34.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customers_Info.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Customers_Info.cs",
+              "RelativeDocumentMoniker": "Customers_Info.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Customers_Info.cs",
+              "RelativeToolTip": "Customers_Info.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAqwOgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:47:08.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:36:25.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BoardofDirectors.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\BoardofDirectors.cs",
+              "RelativeDocumentMoniker": "BoardofDirectors.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\BoardofDirectors.cs",
+              "RelativeToolTip": "BoardofDirectors.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwCkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:31:25.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:22:01.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Python_Lessons\\Algoritmik tillar\\2023_2024\\Construction_Company\\Construction_Company\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:21:09.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
