@@ -60,7 +60,7 @@ namespace Construction_Company
             comboBox2.ValueMember = "id_machinery";
             comboBox2.DisplayMember = "machinery_name";
             comboBox2.SelectedIndex = 0;
-            pictureBox10.Image = Image.FromFile("C:/Users/User/Desktop/Python_Lessons/Algoritmik tillar/2023_2024/Construction_Company/Images/Machinery/machinery_1.png");
+            pictureBox10.Image = Image.FromFile("Machinery/machinery_1.png");
 
             textBox7.Clear();
             textBox8.Clear();
@@ -124,7 +124,7 @@ namespace Construction_Company
 
         private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
-            string image = "C:/Users/User/Desktop/Python_Lessons/Algoritmik tillar/2023_2024/Construction_Company/Images/Machinery/machinery_";
+            string image = "Machinery/machinery_";
 
 
             switch (comboBox2.SelectedIndex)

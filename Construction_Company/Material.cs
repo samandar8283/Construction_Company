@@ -86,7 +86,7 @@ namespace Construction_Company
             comboBox2.DisplayMember = "material_name";
             comboBox2.SelectedIndex = 0;
             label4.Text = "meter";
-            pictureBox10.Image = Image.FromFile("C:/Users/User/Desktop/Python_Lessons/Algoritmik tillar/2023_2024/Construction_Company/Images/Materials/material_3.png");
+            pictureBox10.Image = Image.FromFile("Materials/material_3.png");
 
             textBox7.Clear();
             textBox8.Clear();
@@ -156,7 +156,7 @@ namespace Construction_Company
                     label4.Text = "tons";
                 }
             }
-            string image = "C:/Users/User/Desktop/Python_Lessons/Algoritmik tillar/2023_2024/Construction_Company/Images/Materials/material_";
+            string image = "Materials/material_";
 
 
             switch (comboBox2.SelectedIndex)
