@@ -13,7 +13,7 @@
 
 # 🏗️ Construction Company - Monitoring system
 
-## EN English
+## en English
 
 🎯 This project is aimed at developing a monitoring system for a construction company. The system includes the following features:
 
